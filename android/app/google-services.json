@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118811651445",
+    "project_id": "eauction-182f5",
+    "storage_bucket": "eauction-182f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118811651445:android:af8e001dc03af93db2b73c",
+        "android_client_info": {
+          "package_name": "com.example.practice_mail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118811651445-n740jqk5q6g8mapac7971gaacki5sigo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYpYn_YFxAPTm25b95PQkzp9ZeOT4Sxkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118811651445-n740jqk5q6g8mapac7971gaacki5sigo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
